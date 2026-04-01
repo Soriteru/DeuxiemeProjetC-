@@ -1,0 +1,10 @@
+C:\Users\sohan\source\repos\DeuxiemeProjet\bin\Debug\DeuxiemeProjet.exe.config
+C:\Users\sohan\source\repos\DeuxiemeProjet\bin\Debug\DeuxiemeProjet.exe
+C:\Users\sohan\source\repos\DeuxiemeProjet\bin\Debug\DeuxiemeProjet.pdb
+C:\Users\sohan\source\repos\DeuxiemeProjet\obj\Debug\DeuxiemeProjet.csproj.AssemblyReference.cache
+C:\Users\sohan\source\repos\DeuxiemeProjet\obj\Debug\DeuxiemeProjet.Form1.resources
+C:\Users\sohan\source\repos\DeuxiemeProjet\obj\Debug\DeuxiemeProjet.Properties.Resources.resources
+C:\Users\sohan\source\repos\DeuxiemeProjet\obj\Debug\DeuxiemeProjet.csproj.GenerateResource.cache
+C:\Users\sohan\source\repos\DeuxiemeProjet\obj\Debug\DeuxiemeProjet.csproj.CoreCompileInputs.cache
+C:\Users\sohan\source\repos\DeuxiemeProjet\obj\Debug\DeuxiemeProjet.exe
+C:\Users\sohan\source\repos\DeuxiemeProjet\obj\Debug\DeuxiemeProjet.pdb
